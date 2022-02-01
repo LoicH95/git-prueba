@@ -13,7 +13,7 @@ public class suma{
         System.out.println("Dame un numero: ");
         b = sc.nextInt();
 
-        result = a - b;//suma de las dos variables, que almacenamos en resultado
+        result = a + b;//suma de las dos variables, que almacenamos en resultado
 
         System.out.println(result);
 
